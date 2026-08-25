@@ -8,6 +8,7 @@
     <UserSecretsId>4d226e89-a1fa-4fd2-86c9-60a2ee2d6358</UserSecretsId>
   </PropertyGroup>
 
+
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.7" />
     <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="9.0.5" />
